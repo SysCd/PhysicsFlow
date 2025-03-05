@@ -1,5 +1,7 @@
 # PhysicsFlow
 
+![Physics Framework](diagrams/PhysicsFlow.png)
+
 ## Overview
 PhysicsFlow explores patterns in motion and systems through intuitive models, enhancing analytical skills for optimizing tech and DevOps workflows. It’s a passion project visualizing how forces and motion create universal patterns, applicable to infrastructure design and problem-solving.
 
